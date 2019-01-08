@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "group": "carpet_from_dye",
+    "ingredients": [
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "tag": "minecraft:carpets"
+        }
+    ],
+    "result": {
+        "item": "minecraft:black_carpet"
+    }
+}

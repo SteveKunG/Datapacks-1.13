@@ -1,0 +1,47 @@
+# to baby
+execute as @e[type=mooshroom,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=cow,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=sheep,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=pig,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=chicken,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=rabbit,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=wolf,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=ocelot,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=llama,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=polar_bear,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=turtle,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=horse,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=donkey,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=mule,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=skeleton_horse,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=zombie_horse,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=villager,tag=!baby,name=_baby] run function stevekung:entities/creature/merge
+execute as @e[type=zombie,tag=!baby,name=_baby] run function stevekung:entities/hostile/merge
+execute as @e[type=zombie_villager,tag=!baby,name=_baby] run function stevekung:entities/hostile/merge
+execute as @e[type=zombie_pigman,tag=!baby,name=_baby] run function stevekung:entities/hostile/merge
+execute as @e[type=husk,tag=!baby,name=_baby] run function stevekung:entities/hostile/merge
+execute as @e[type=drowned,tag=!baby,name=_baby] run function stevekung:entities/hostile/merge
+
+# reset
+execute as @e[type=mooshroom,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=cow,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=sheep,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=pig,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=chicken,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=rabbit,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=wolf,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=ocelot,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=llama,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=polar_bear,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=turtle,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=horse,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=donkey,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=mule,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=skeleton_horse,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=zombie_horse,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=villager,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=zombie,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=zombie_villager,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=zombie_pigman,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=husk,tag=baby,name=_reset] run function stevekung:entities/reset
+execute as @e[type=drowned,tag=baby,name=_reset] run function stevekung:entities/reset

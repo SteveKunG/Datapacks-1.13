@@ -1,0 +1,2 @@
+summon lightning_bolt ~ ~ ~
+give @a[limit=1,distance=..8,sort=random] totem_of_undying{IsThunderTotem:1b,display:{Name:"{\"text\":\"Thunder Totem\",\"color\":\"blue\",\"italic\":\"false\"}",Lore:["§7Raining IV","§7Thunder V","","§r§aCreate raining and thunder storm for 30 minutes"]}}

@@ -1,0 +1,17 @@
+{    
+    "type": "crafting_shaped",
+    "group": "smooth_block",
+    "pattern": [
+        "XX",
+        "XX"
+    ],
+    "key": {
+        "X": {
+            "item": "minecraft:quartz_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:smooth_quartz",
+        "count": 4
+    }
+}

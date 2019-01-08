@@ -1,0 +1,2 @@
+data merge entity @e[type=item,nbt=!{Item:{tag:{IsLavaSponge:1b}}},nbt={Item:{id:"minecraft:wet_sponge"}},limit=1,distance=..1] {Item:{id:"minecraft:iron_ingot",tag:{IsLavaSponge:1b,Enchantments:[{}],display:{Name:"{\"text\":\"Lava Sponge\",\"color\":\"gold\",\"italic\":\"false\"}",Lore:["§2Used by throwing into lava"]}}}}
+kill @s

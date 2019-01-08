@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "group": "terracotta_from_dye",
+    "ingredients": [
+        {
+            "item": "minecraft:dandelion_yellow"
+        },
+        {
+            "tag": "minecraft:terracotta"
+        }
+    ],
+    "result": {
+        "item": "minecraft:yellow_terracotta"
+    }
+}

@@ -1,0 +1,1 @@
+give @s iron_ingot{display:{Lore:["§r§5Teleport nearby Item and Experience","§r§5to the player in 12 blocks radius","","§r§aPlace in the Top Left/Right or Offhand slot"],Name:"{\"italic\":false,\"color\":\"blue\",\"text\":\"Magnet\"}"},Enchantments:[{}],IsMagnet:1b}
