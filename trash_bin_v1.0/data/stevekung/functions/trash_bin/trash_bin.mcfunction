@@ -1,0 +1,2 @@
+# craft trash bin
+execute as @e[type=armor_stand,tag=adv_crafting_table] at @s if block ~ ~1 ~ dropper[facing=down]{CustomName:"{\"italic\":false,\"color\":\"blue\",\"text\":\"Advanced Crafting Table\"}",Items:[{Slot:1b,id:"minecraft:ender_eye",Count:1b},{Slot:4b,id:"minecraft:dropper",Count:1b}]} run data merge block ~ ~1 ~ {Items:[{id:"minecraft:dropper",Count:1b,Slot:4b,tag:{TrashBin:1b,display:{Name:"{\"text\":\"Trash Bin\",\"color\":\"dark_gray\",\"italic\":\"false\"}",Lore:["§r§6Used to remove unused items","§r§6Delete items every 10 seconds"]}}}]}
