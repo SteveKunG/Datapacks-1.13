@@ -1,0 +1,1 @@
+scoreboard players set SteveKunG HerobrineEnable 0
